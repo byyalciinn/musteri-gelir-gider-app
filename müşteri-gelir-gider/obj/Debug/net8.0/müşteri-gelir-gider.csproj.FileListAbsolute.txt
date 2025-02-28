@@ -1,0 +1,14 @@
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\bin\Debug\net8.0\müşteri-gelir-gider.exe
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\bin\Debug\net8.0\müşteri-gelir-gider.deps.json
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\bin\Debug\net8.0\müşteri-gelir-gider.runtimeconfig.json
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\bin\Debug\net8.0\müşteri-gelir-gider.dll
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\bin\Debug\net8.0\müşteri-gelir-gider.pdb
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\obj\Debug\net8.0\müşteri-gelir-gider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\obj\Debug\net8.0\müşteri-gelir-gider.AssemblyInfoInputs.cache
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\obj\Debug\net8.0\müşteri-gelir-gider.AssemblyInfo.cs
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\obj\Debug\net8.0\müşteri-gelir-gider.csproj.CoreCompileInputs.cache
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\obj\Debug\net8.0\müşteri-gelir-gider.dll
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\obj\Debug\net8.0\refint\müşteri-gelir-gider.dll
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\obj\Debug\net8.0\müşteri-gelir-gider.pdb
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\obj\Debug\net8.0\müşteri-gelir-gider.genruntimeconfig.cache
+C:\Users\zelfi\source\repos\müşteri-gelir-gider\müşteri-gelir-gider\obj\Debug\net8.0\ref\müşteri-gelir-gider.dll
