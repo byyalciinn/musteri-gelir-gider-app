@@ -1,0 +1,12 @@
+C:\Users\zelfi\source\repos\MusteritakipApp\bin\Debug\MusteritakipApp.exe.config
+C:\Users\zelfi\source\repos\MusteritakipApp\bin\Debug\MusteritakipApp.exe
+C:\Users\zelfi\source\repos\MusteritakipApp\bin\Debug\MusteritakipApp.pdb
+C:\Users\zelfi\source\repos\MusteritakipApp\obj\Debug\MusteritakipApp.csproj.AssemblyReference.cache
+C:\Users\zelfi\source\repos\MusteritakipApp\obj\Debug\MusteritakipApp.Properties.Resources.resources
+C:\Users\zelfi\source\repos\MusteritakipApp\obj\Debug\MusteritakipApp.csproj.GenerateResource.cache
+C:\Users\zelfi\source\repos\MusteritakipApp\obj\Debug\MusteritakipApp.csproj.CoreCompileInputs.cache
+C:\Users\zelfi\source\repos\MusteritakipApp\obj\Debug\MusteritakipApp.exe
+C:\Users\zelfi\source\repos\MusteritakipApp\obj\Debug\MusteritakipApp.pdb
+C:\Users\zelfi\source\repos\MusteritakipApp\obj\Debug\MusteritakipApp.CustomerDetailForm.resources
+C:\Users\zelfi\source\repos\MusteritakipApp\obj\Debug\MusteritakipApp.MainForm.resources
+C:\Users\zelfi\source\repos\MusteritakipApp\obj\Debug\MusteritakipApp.AddCustomerForm.resources
